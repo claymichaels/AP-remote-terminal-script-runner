@@ -1,0 +1,7 @@
+system
+debug
+<snipped debug shell pass>
+shell
+echo 109 > /proc/cfgstat
+dmesg | grep CAV
+READ

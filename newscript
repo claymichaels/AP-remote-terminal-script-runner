@@ -1,0 +1,5 @@
+network
+wireless
+wlan
+show wlan 2
+READ
